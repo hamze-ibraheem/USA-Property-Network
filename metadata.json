@@ -1,0 +1,6 @@
+{
+  "name": "USA Property Network",
+  "description": "Boutique real estate consulting firm in Tampa, FL specializing in personalized buyer consulting, seller strategy, and investment property analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
